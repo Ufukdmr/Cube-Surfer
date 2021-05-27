@@ -8,6 +8,15 @@ TagManager:
   - PlayerParent
   - Wall
   - PlayerCube
+  - Right
+  - Cristal
+  - Left
+  - Platform
+  - BlockRight
+  - BlockLeft
+  - HighPlatform
+  - Magma
+  - MinLeft
   layers:
   - Default
   - TransparentFX
